@@ -1,138 +1,82 @@
 <div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-# **Thaina Duarte**
+### Olá! Eu sou Thaina Duarte 
 
+**Desenvolvedora | tecnologia e inovação**
 
+---
+
+🔹 **Sobre mim:**
+- 🌍 Minas Gerais, Brasil
+- 🎓 Estudante de Ciência da Computação
+- 💼 Desenvolvedora em ambiente ecossistema microsoft
+- 🚀 Sempre aprendendo algo novo
+
+🔹 **Atualmente:**
+- 🌱 Aprendendo **Python**
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,node,python,html,css,git,github,vscode,figma" />
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thainaxxz&show_icons=true&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainaxxz&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thainaxxz&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🌟 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/seu-usuario/projeto1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thainaxxz&repo=projeto1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/seu-usuario/projeto2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thainaxxz&repo=projeto2&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+### 📱 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alda-thaina-duarte-9339b4206/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aldsilvavs1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-## 🎨 **Sobre Mim**
-
+  <img src="https://komarev.com/ghpvc/?username=Thainaxxz&color=blueviolet&style=flat-square" />
 </div>
-
-<table align="center">
-<tr>
-<td>
-
-```yaml
-Nome: Thaina Duarte
-Localização: Brasil 🇧🇷
-Foco: Frontend & Backend
-Paixão: Clean Code & UX
-
-```
-
-</td>
-<td>
-
-- 🔮 Criando **projetos inovadores**
-- 🌱 Explorando **IA e Web3**
-- 🎯 Objetivo: **Impactar vidas através da tecnologia**
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
-
-## 🛠️ **Stack Tecnológica**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,python,tailwind,figma,git&theme=dark" />
-
-<br><br>
-
-
-### ⚡ **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-### 🚀 **Ferramentas**
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
+  ⭐️ From <a href="https://github.com/Thainaxxz">Thaina Duarte</a>
 </div>
-
----
-
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thainaxxz&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thainaxxz&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thainaxxz&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 **Conquistas**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thainaxxz&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
-<div align="center">
-
-
-- 🔐 Autenticação segura
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thainaxxz&custom_title=Contribuições%20nos%20últimos%2012%20meses&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 **Vamos Conectar?**
-
-<a href="https://www.linkedin.com/in/alda-thaina-duarte-9339b4206/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:aldasilvavs1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-### 💭 *"Código limpo não é escrito seguindo regras. É escrito por programadores que se importam."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thainaxxz&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES" />
-</div>
-```
-
