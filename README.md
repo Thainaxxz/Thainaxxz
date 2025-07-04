@@ -30,11 +30,11 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thainaxxz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thainaxxz&show_icons=true&theme=kacho_ga" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainaxxz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainaxxz&layout=compact&theme=kacho_ga" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 ### 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thainaxxz&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Thainaxxz&theme=kacho_ga&no-frame=true&row=1&column=6" />
 </div>
 
 ---
