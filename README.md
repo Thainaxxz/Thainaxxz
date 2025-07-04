@@ -47,19 +47,6 @@
 
 ---
 
-### 🌟 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/seu-usuario/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thainaxxz&repo=projeto1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/seu-usuario/projeto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thainaxxz&repo=projeto2&theme=tokyonight" />
-  </a>
-</div>
-
----
-
 ### 📱 Conecte-se comigo
 
 <div align="center">
