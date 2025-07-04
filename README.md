@@ -1,4 +1,4 @@
-# Olá! 👋 Meu nome é Thaina
+# Olá!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=58A6FF" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 ## 🚀 Sobre mim
 
 - 🌱 Aprendendo Python
-- 📫 Como me encontrar: **[aldasilvavs1@gmail.com]**
+
 
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -53,7 +53,7 @@
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thainaxxz&theme=tokyo-night&hide_border=true" />
 </div>
 
 ## 🌐 Conecte-se comigo
