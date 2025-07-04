@@ -89,33 +89,7 @@ Paixão: Clean Code & UX
 
 <div align="center">
 
-## 🎯 **Projetos em Destaque**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 [Nome do Projeto 1](https://github.com/Thainaxxz/PROJETO1)
-**Descrição breve e impactante do projeto**
-
-`React` `TypeScript` `Next.js` `Tailwind`
-
-⭐ **Features:**
-- ✨ Interface moderna e responsiva
-- 🔥 Performance otimizada
-- 🎨 Design system próprio
-
-</td>
-<td width="50%">
-
-### 💡 [Nome do Projeto 2](https://github.com/Thainaxxz/PROJETO2)
-**Outra descrição incrível do projeto**
-
-`Node.js` `Python` `PostgreSQL` `Docker`
-
-⭐ **Features:**
-- 🚀 API RESTful robusta
-- 📊 Dashboard analytics
 - 🔐 Autenticação segura
 
 </td>
@@ -128,7 +102,6 @@ Paixão: Clean Code & UX
 
 <div align="center">
 
-## 📈 **Atividade de Contribuição**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thainaxxz&custom_title=Contribuições%20nos%20últimos%2012%20meses&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
