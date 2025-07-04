@@ -1,66 +1,88 @@
-<p align="center">
-  <img width="300" src="https://cdn.discordapp.com/attachments/1081234567890123456/1123456789012345678/green_terminal_eye.png" alt="Eye Surveillance" />
-</p>
+# Olá! 👋 Meu nome é Thaina
 
-<h3 align="center" style="color: #7FFF00; font-family: 'Courier New', monospace;">  
-ACT NOW AGAINST MASS SURVEILLANCE  
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo&font=Roboto&size=24&duration=3500&pause=500&center=true&width=500&height=50&color=58A6FF" alt="Typing SVG" />
+</div>
 
-<pre style="background-color: #001100; color: #7FFF00; font-family: 'Courier New', monospace; padding: 1em; border-radius: 5px; max-width: 700px; margin: auto;">
-AROUND THE WORLD, GOVERNMENTS HAVE TURNED THE INTERNET INTO A SURVEILLANCE MACHINE.
+## 🚀 Sobre mim
 
-LOGOS PROVIDES END-TO-END ENCRYPTION WITH A DECENTRALISED DESIGN. OPT OUT OF MASS SURVEILLANCE.
+- 🌱 Aprendendo Python
+- 📫 Como me encontrar: **[aldasilvavs1@gmail.com]**
 
-CONTROL YOUR DATA, PROTECT YOUR PRIVACY, TAKE BACK THE INTERNET.
-</pre>
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+### Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 Troféus do GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true" />
+</div>
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alda-thaina-duarte-9339b4206/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thaina_zz/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aldasilvavs1@gmail.com)
+
+</div>
+
+## 💡 Citação Inspiradora
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
-<h2 style="color: #7FFF00; font-family: 'Courier New', monospace;" align="center">
-  ABOUT ME
-</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" />
+</div>
 
-<pre style="background-color: #001100; color: #7FFF00; font-family: 'Courier New', monospace; padding: 1em; border-radius: 5px; max-width: 700px; margin: auto;">
-- COMPUTER SCIENCE STUDENT
-- PROGRESSING WITH PYTHON AND C
-- PASSIONATE ABOUT PRIVACY AND CYBERSECURITY
-- LEARNING CLEAN CODE & SYSTEMS PROGRAMMING
-</pre>
+<div align="center">
+  
+### 🎯 "O código é poesia em movimento" 
+  
+</div>
+```
 
----
 
-<h2 style="color: #7FFF00; font-family: 'Courier New', monospace;" align="center">
-  TECH STACK
-</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,pycharm" alt="Tech Icons" />
-</p>
-
----
-
-<h2 style="color: #7FFF00; font-family: 'Courier New', monospace;" align="center">
-  GITHUB STATS
-</h2>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thainaxxz&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainaxxz&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-<h2 style="color: #7FFF00; font-family: 'Courier New', monospace;" align="center">
-  CONNECT WITH ME
-</h2>
-
-<p align="center">
-  <a href="mailto:aldasilvavs1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7FFF00?style=for-the-badge&logo=gmail&logoColor=black&color=001100" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/alda-thaina-duarte-9339b4206/"><img src="https://img.shields.io/badge/LINKEDIN-7FFF00?style=for-the-badge&logo=linkedin&logoColor=black&color=001100" alt="LinkedIn" /></a>
-</p>
-
----
-
-<p align="center" style="font-family: 'Courier New', monospace; color: #7FFF00;">
-  MADE WITH 💚 AND A PASSION FOR TECH BY THAINA
-</p>
