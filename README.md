@@ -36,7 +36,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thainaxxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Thainaxxz=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thainaxxz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -69,7 +69,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Thainaxxz&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" />
 </div>
 
 <div align="center">
