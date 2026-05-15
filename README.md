@@ -163,7 +163,7 @@ Aberta a projetos freelance, oportunidades e conversas sobre design e cÃ³digo. ð
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=netlify&logoColor=white)](https://thaina-duarte-portifolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thainaxxz)
 <!-- Troque o e-mail abaixo pelo seu e-mail real -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaina.duarte.dev@gmail.com)
 
 </div>
 
