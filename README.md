@@ -110,7 +110,7 @@ Minha abordagem combina **rigor técnico** com sensibilidade criativa. Transform
 
 | Projeto | Descrição | Tech | Links |
 |---|---|---|---|
-| **Mikrotik NMS Dashboard** | Sistema de monitoramento de redes em tempo real. Interface analítica e fluida para infraestruturas MikroTik. | `React` `TypeScript` `Tailwind` | [![Demo](https://img.shields.io/badge/Demo-A78BFA?style=flat-square)](https://dashboard-mikrotik-demo.netlify.app/) |
+| **Mikrotik NMS Dashboard** | Sistema de monitoramento de redes em tempo real. Interface analítica e fluida para infraestruturas MikroTik. | `HTML` `JavaScript` `CSS` | [![Demo](https://img.shields.io/badge/Demo-A78BFA?style=flat-square)](https://dashboard-mikrotik-demo.netlify.app/) |
 | **Vortex Dash** | Dashboard financeiro moderno com foco em UX e visualização de dados. | `HTML` `CSS` `JavaScript` | 🔨 Em breve |
 
 
