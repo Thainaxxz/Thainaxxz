@@ -48,7 +48,7 @@ const thaina = {
   focus:      ["Interfaces modernas", "Design systems", "UX que converte"],
   mindset:    "Cada pixel importa. Cada animação tem intenção.",
   currently:  "Construindo projetos que unem estética e funcionalidade",
-  available:  true, // aberta a oportunidades 🚀
+  available:  true,
 };
 ```
 
